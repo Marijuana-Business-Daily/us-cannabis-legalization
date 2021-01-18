@@ -1,4 +1,4 @@
-state,state_abr,recreational,medical,med_date,rec_date,,,,
+state_full,state_abr,recreational,medical,med_date,rec_date,,,,
 California,CA,TRUE,TRUE,1996,2016,,,,
 Alaska,AK,TRUE,TRUE,1998,2014,,,,
 Nevada,NV,TRUE,TRUE,1998,2016,,,,
